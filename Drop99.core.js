@@ -1,0 +1,1 @@
+//<!--IQ detonation core engaged//-->function drop99(){document.write("<font size=5 color=lime face=Courier><b>99</b></font>");setTimeout(drop99,0)}//<!--There's no way you survive this loop lol//-->
